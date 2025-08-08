@@ -1,5 +1,5 @@
 import React from 'react'
-import { backendUrl, currency } from '../App'
+import { backendUrl, currency } from '../App.jsx'
 import { useState,useEffect } from 'react'
 import { toast } from 'react-toastify'
 import axios from 'axios'
