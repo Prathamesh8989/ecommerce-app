@@ -21,9 +21,6 @@ A complete, production-ready e-commerce platform built as a monorepo consisting 
 8. [Environment Variables](#environment-variables)
 9. [Getting Started](#getting-started)
 10. [Deployment](#deployment)
-11. [Future Improvements](#future-improvements)
-12. [License](#license)
-
 ---
 
 ## Overview
